@@ -5,5 +5,6 @@ Dans le but de construre une application permettant aux élèves du lycée dans 
     - les sujet en format PDF
     - le type d'examen etc
  ceci n'est qu'une partir des données gratter à l'aide du module bs4 de python
- 
+ ![image](https://github.com/wilflex/WebScripping/blob/main/soup.png)
+
  
